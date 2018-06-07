@@ -1,0 +1,24 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.idea/
+exception/src/main/resources/
+exception/src/test/
+inheritance/src/main/resources/
+inheritance/src/test/
+initialization/initialization.iml
+initialization/src/
+io/io.iml
+io/src/
+java-philosophy-book.iml
+multithreading/multithreading.iml
+multithreading/src/main/resources/
+multithreading/src/test/
+multithreading/target/
+objects/src/
+exception/exception.iml
+inheritance/inheritance.iml
+.iml
+/exception/exception.iml
+/inheritance/inheritance.iml
+/polymorphism/polymorphism.iml
+/objects/objects.iml

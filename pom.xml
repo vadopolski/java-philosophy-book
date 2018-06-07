@@ -11,6 +11,11 @@
     <modules>
         <module>multithreading</module>
         <module>io</module>
+        <module>exception</module>
+        <module>inheritance</module>
+        <module>initialization</module>
+        <module>objects</module>
+        <module>polymorphism</module>
     </modules>
 
 
