@@ -16,6 +16,7 @@
         <module>initialization</module>
         <module>objects</module>
         <module>polymorphism</module>
+        <module>interface</module>
     </modules>
 
 
